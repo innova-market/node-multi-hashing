@@ -5,7 +5,7 @@
 /* Start of preamble from import "C" comments.  */
 
 
-#line 3 "/home/user/code/node-multi-hashing/go-equihash/equi.go"
+/* #line 3 "/home/user/code/node-multi-hashing/go-equihash/equi.go" */
 
 
  #include <stdlib.h>
